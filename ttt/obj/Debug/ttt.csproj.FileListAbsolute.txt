@@ -1,0 +1,8 @@
+E:\C#\ttt\ttt\bin\Debug\ttt.exe.config
+E:\C#\ttt\ttt\bin\Debug\ttt.exe
+E:\C#\ttt\ttt\bin\Debug\ttt.pdb
+E:\C#\ttt\ttt\obj\Debug\ttt.csproj.AssemblyReference.cache
+E:\C#\ttt\ttt\obj\Debug\ttt.csproj.SuggestedBindingRedirects.cache
+E:\C#\ttt\ttt\obj\Debug\ttt.csproj.CoreCompileInputs.cache
+E:\C#\ttt\ttt\obj\Debug\ttt.exe
+E:\C#\ttt\ttt\obj\Debug\ttt.pdb
